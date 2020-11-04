@@ -17,7 +17,7 @@
 ### Pertemuan 5 - Latihan
 
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
-![latihan pertemuan 5](gambar/foto%201.png)
+![latihan pertemuan 5](Foto/foto%201.png)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
 ``` python
